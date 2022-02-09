@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family:  'Jost', sans-serif;;
+}
+h1 .logo{
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.navbar-button{
+    border: 2px solid #47b2e4;
+    border-radius: 50%;
+    padding: 2px;
+    transition: 0.4s;
+}
+.navbar-button:hover{
+    background-color:#47b2e4;
+}
